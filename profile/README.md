@@ -1,4 +1,4 @@
-![Header](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTh2cnl2OXR1aG44NTllMjZnczkzbXp2bWpsZ3B4aTFiNG5hYXZmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iicDrNGWxHmDrIni6j/giphy.gif)
+![Header]("../SPG.gif")
 
 # Star Plus
 
