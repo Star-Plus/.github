@@ -1,4 +1,4 @@
-![Header]("../SPG.gif")
+![Header](../SPG.gif)
 
 # Star Plus
 
